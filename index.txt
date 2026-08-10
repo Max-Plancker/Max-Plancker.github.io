@@ -58,7 +58,7 @@ e:I[2252,[],"MetadataBoundary"]
       root.lang = 'en';
       root.setAttribute('data-locale', 'en');
     }
-  a:T556,I am a master's student in Social Medicine and Health Management at the School of Public Health (Shenzhen), now the School of Biosafety, Sun Yat-sen University. Before joining Sun Yat-sen University, I received my bachelor's degree in Agricultural Economy and Management from Nanjing Agricultural University. My research focuses on artificial intelligence in healthcare, big data medical research, digital health, and healthy aging.
+  a:T556,I am a master's student in Social Medicine and Health Management at the School of Public Health (Shenzhen), now the School of Biosafety, Sun Yat-sen University. Before joining Sun Yat-sen University, I received my bachelor's degree in Nanjing Agricultural University. My research focuses on artificial intelligence in healthcare, big data medical research, digital health, and healthy aging.
 
 I have conducted several research such as using large cohort or EHR data for predictive modeling and personalized interventions, with the goal of improving patient outcomes or promoting healthy aging. I am familiar with the techniques including epidemiological models, machine learning, deep learning, reinforcement learning, and large language models (LLMs).
 
